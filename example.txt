@@ -1,3 +1,0 @@
-welcome to Git!!!
-
-editing exa,ple.txt file....
